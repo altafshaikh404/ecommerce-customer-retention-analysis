@@ -9,11 +9,12 @@ The project uses **Python (Pandas), MySQL and Power BI** to investigate profitab
 ## Dashboard Preview
 
 ### Executive Performance & Commercial Drivers
-![Executive Performance Dashboard](Executive%20Performance%20%26%20Commercial%20Drivers.png)
+
+![Executive Dashboard](images/Executive%20Performance%20%26%20Commercial%20Drivers.png)
 
 ### Customer Retention & Operations
-![Customer Retention Dashboard](Customer%20Retention%20%26%20Operations.png)
 
+![Customer Retention Dashboard](images/Customer%20Retention%20%26%20Operations.png)
 ---
 
 ## 1. Business Problem
