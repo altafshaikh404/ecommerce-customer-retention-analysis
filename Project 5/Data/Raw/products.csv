@@ -1,0 +1,85 @@
+product_id,product_category,product_name,list_price,unit_cost,handling_type
+P001,Electronics,Zenix True Wireless Earbuds,1799.00,1529.15,Fragile
+P002,Electronics,Nimbus 20000mAh Power Bank,1599.00,1311.18,Standard
+P003,Electronics,Zenix 43-inch 4K Smart TV,27999.00,25199.10,Bulky
+P004,Electronics,Aurora Bluetooth Speaker,2499.00,2074.17,Fragile
+P005,Electronics,Nimbus Smartwatch Active,3999.00,3359.16,Fragile
+P006,Electronics,Zenix 1080p Webcam,2199.00,1803.18,Fragile
+P007,Electronics,Aurora Noise-Cancelling Headphones,5999.00,5159.14,Fragile
+P008,Mobile Accessories,Zenix 33W Fast Charger,799.00,415.48,Standard
+P009,Mobile Accessories,Nimbus USB-C Cable 1m,349.00,157.05,Standard
+P010,Mobile Accessories,Tempered Glass Screen Guard,299.00,125.58,Standard
+P011,Mobile Accessories,Silicone Phone Case,499.00,224.55,Standard
+P012,Mobile Accessories,Magnetic Car Phone Mount,649.00,350.46,Standard
+P013,Mobile Accessories,Wireless Charging Pad,1199.00,695.42,Standard
+P014,Mobile Accessories,Phone Tripod Stand,899.00,494.45,Standard
+P015,Fashion,Men's Cotton Crew T-Shirt,699.00,335.52,Standard
+P016,Fashion,Women's Printed Kurti,999.00,459.54,Standard
+P017,Fashion,Men's Slim Fit Jeans,1799.00,899.50,Standard
+P018,Fashion,Women's Cotton Saree,2499.00,1249.50,Standard
+P019,Fashion,Men's Formal Shirt,1399.00,671.52,Standard
+P020,Fashion,Women's Palazzo Pants,899.00,404.55,Standard
+P021,Fashion,Unisex Hooded Sweatshirt,1599.00,831.48,Standard
+P022,Footwear,Men's Running Shoes,2499.00,1399.44,Standard
+P023,Footwear,Women's Casual Sneakers,1999.00,1079.46,Standard
+P024,Footwear,Leather Formal Shoes,3299.00,1913.42,Standard
+P025,Footwear,Flip Flops Sliders,499.00,239.52,Standard
+P026,Footwear,Women's Block Heel Sandals,1499.00,779.48,Standard
+P027,Footwear,Kids School Shoes,1299.00,727.44,Standard
+P028,Footwear,Trekking Boots,4199.00,2603.38,Bulky
+P029,Home & Kitchen,Non-Stick Cookware Set,2999.00,1979.34,Fragile
+P030,Home & Kitchen,Stainless Steel Water Bottle 1L,699.00,384.45,Standard
+P031,Home & Kitchen,Glass Food Storage Set,1299.00,805.38,Fragile
+P032,Home & Kitchen,Electric Kettle 1.5L,1199.00,839.30,Fragile
+P033,Home & Kitchen,Mixer Grinder 750W,3499.00,2729.22,Fragile
+P034,Home & Kitchen,Cotton Bedsheet Double,1499.00,839.44,Standard
+P035,Home & Kitchen,Air Fryer 4L,5499.00,4509.18,Fragile
+P036,Beauty & Personal Care,Vitamin C Face Serum,599.00,227.62,Standard
+P037,Beauty & Personal Care,Sunscreen SPF 50,449.00,188.58,Standard
+P038,Beauty & Personal Care,Herbal Shampoo 500ml,399.00,179.55,Standard
+P039,Beauty & Personal Care,Beard Trimmer,1499.00,1049.30,Standard
+P040,Beauty & Personal Care,Matte Lipstick Set,799.00,319.60,Standard
+P041,Beauty & Personal Care,Hair Dryer 1800W,1299.00,883.32,Fragile
+P042,Beauty & Personal Care,Aloe Vera Gel,299.00,119.60,Standard
+P043,Grocery & Gourmet,Cold-Pressed Groundnut Oil 1L,449.00,359.20,Perishable
+P044,Grocery & Gourmet,Assam Tea 500g,399.00,295.26,Standard
+P045,Grocery & Gourmet,Mixed Dry Fruits 1kg,1099.00,835.24,Perishable
+P046,Grocery & Gourmet,Basmati Rice 5kg,799.00,655.18,Bulky
+P047,Grocery & Gourmet,Organic Honey 500g,449.00,323.28,Fragile
+P048,Grocery & Gourmet,Instant Filter Coffee 200g,349.00,254.77,Standard
+P049,Grocery & Gourmet,Masala Almonds Snack Pack of 6,599.00,449.25,Perishable
+P050,Books & Stationery,Fiction Bestseller Paperback,399.00,279.30,Standard
+P051,Books & Stationery,Data Analytics Handbook,899.00,611.32,Standard
+P052,Books & Stationery,Premium Notebook Pack of 5,449.00,291.85,Standard
+P053,Books & Stationery,Gel Pen Set of 20,249.00,149.40,Standard
+P054,Books & Stationery,Civil Services General Studies Guide,1099.00,791.28,Standard
+P055,Books & Stationery,Kids Illustrated Story Collection,599.00,401.33,Standard
+P056,Books & Stationery,Desk Planner 2026,349.00,216.38,Standard
+P057,Toys & Baby,Building Blocks 500 pcs,1299.00,779.40,Standard
+P058,Toys & Baby,Remote Control Car,1499.00,929.38,Fragile
+P059,Toys & Baby,Baby Diapers Pack of 72,1199.00,959.20,Bulky
+P060,Toys & Baby,Soft Plush Teddy,799.00,439.45,Standard
+P061,Toys & Baby,Family Board Game,999.00,579.42,Standard
+P062,Toys & Baby,Baby Wipes Pack of 6,599.00,443.26,Standard
+P063,Toys & Baby,Kids Art & Craft Kit,699.00,391.44,Standard
+P064,Sports & Fitness,Yoga Mat 6mm,799.00,463.42,Standard
+P065,Sports & Fitness,Adjustable Dumbbell Set 20kg,3999.00,2879.28,Bulky
+P066,Sports & Fitness,Resistance Bands Set,599.00,329.45,Standard
+P067,Sports & Fitness,Badminton Racquet Pair,1499.00,959.36,Standard
+P068,Sports & Fitness,English Willow Cricket Bat,3499.00,2449.30,Bulky
+P069,Sports & Fitness,Speed Skipping Rope,299.00,149.50,Standard
+P070,Sports & Fitness,Fitness Tracker Band,2299.00,1839.20,Fragile
+P071,Furniture & Decor,Study Table,4999.00,3499.30,Bulky
+P072,Furniture & Decor,Ergonomic Office Chair,8999.00,6659.26,Bulky
+P073,Furniture & Decor,3-Tier Bookshelf,3999.00,2719.32,Bulky
+P074,Furniture & Decor,LED Floor Lamp,2499.00,1599.36,Fragile
+P075,Furniture & Decor,Wall Art Canvas Set,1799.00,1007.44,Fragile
+P076,Furniture & Decor,4-Tier Shoe Rack,1599.00,1055.34,Bulky
+P077,Furniture & Decor,Single Recliner Sofa,14999.00,11699.22,Bulky
+P078,Health & Wellness,Whey Protein 1kg,2199.00,1539.30,Standard
+P079,Health & Wellness,Multivitamin 60 Tablets,599.00,311.48,Standard
+P080,Health & Wellness,Digital Thermometer,399.00,199.50,Fragile
+P081,Health & Wellness,Digital BP Monitor,1999.00,1479.26,Fragile
+P082,Health & Wellness,Pulse Oximeter,1299.00,857.34,Fragile
+P083,Health & Wellness,Ayurvedic Immunity Kit,799.00,399.50,Standard
+P084,Health & Wellness,Foam Massage Roller,899.00,494.45,Standard
