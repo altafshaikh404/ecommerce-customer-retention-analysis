@@ -6,17 +6,6 @@ The project uses **Python (Pandas), MySQL and Power BI** to investigate profitab
 
 > **Note:** All data is synthetic. The company, customers and transactions are fictional. All monetary values are in Indian Rupees (₹).
 
-## Dashboard Preview
-
-### Executive Performance & Commercial Drivers
-
-![Executive Dashboard](images/Executive%20Performance%20%26%20Commercial%20Drivers.png)
-
-### Customer Retention & Operations
-
-![Customer Retention Dashboard](images/Customer%20Retention%20%26%20Operations.png)
----
-
 ## 1. Business Problem
 
 Management of an online retailer selling 12 product categories across 38 cities wants to understand:
